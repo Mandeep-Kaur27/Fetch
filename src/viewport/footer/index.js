@@ -4,7 +4,7 @@ import Dog2 from "../../../src/assets/Bronco.png";
 import { FaPhoneVolume, FaEnvelope, FaLinkedin, FaInstagram } from "react-icons/fa6";
 const Footer = () => {
   return (
-    <footer className="p-80 pb-0 green-bg">
+    <footer className="p-80 pb-0 green-bg" id="AboutUs">
       <div className="container pb-3">
         <div className="row text-center">
           <div className="col-md-12">

@@ -58,17 +58,17 @@ const Header = () => {
                     </a>
                   </li>
                   <li className="nav-item nav-link">
-                    <a href="#Our-Canine-Services " className="nav-anchor">
+                    <a href="#services" className="nav-anchor">
                       Our Canine Services
                     </a>
                   </li>
                   <li className="nav-item nav-link">
-                    <a href="#Our-Service-Areas" className="nav-anchor">
+                    <a href="#serviceArea" className="nav-anchor">
                       Our Service Areas
                     </a>
                   </li>
                   <li className="nav-item nav-link">
-                    <a href="#About-Us" className="nav-anchor">
+                    <a href="#AboutUs" className="nav-anchor">
                       About Us
                     </a>
                   </li>
