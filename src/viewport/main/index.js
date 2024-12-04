@@ -45,21 +45,21 @@ const Main = () => {
       <div className="banner light-bg" id="home">
         <div className="container d-flex align-items-center">
           <div className="row mt-5">
-            <div className="col-lg-6 col-md-12 wow pulse animated" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <div className="col-lg-6 col-6 wow pulse animated" data-wow-duration="1000ms" data-wow-delay="600ms">
               <div className="left-wrap justify-content-center">
                 <div className="img-wrap">
                   <img className="img-fluid" alt="logo" src={logo} />
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 col-md-12" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <div className="col-lg-6 col-6" data-wow-duration="1000ms" data-wow-delay="600ms">
               <div className="img-wrap justify-content-center gradient-border">
                 <div className="border-wrap border-white">
                   <img className="img-fluid border-white" alt="banner" src={Banner} />
                 </div>
               </div>
             </div>
-            <div className="col-sm-12 mt-3">
+            <div className="col-sm-12 mt-0 mt-md-3">
               <p className='text-center green-text mt-5 mb-5'><img className="pawn me-2"src={Pawn} />Helping your pets live their best lives<img className='pawn ms-2' src={Pawn} /></p>
             </div>
           </div>

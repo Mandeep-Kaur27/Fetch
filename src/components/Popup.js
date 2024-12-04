@@ -229,7 +229,7 @@ const Popup = props => {
                                     </div>
                                 </div>
 
-                                <Button type='submit' className="btn common-btn mt-5 mb-5"><SubmitIcon /></Button>
+                                <Button type='submit' className="btn submit common-btn mt-5 mb-5"><SubmitIcon /></Button>
                             </Form>
                         </div>
                     </div>
